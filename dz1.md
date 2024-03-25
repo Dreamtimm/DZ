@@ -98,8 +98,16 @@ Phind - это поисковый движок, который позволяе�
 
 По миру за год
 
+![image](https://github.com/Dreamtimm/DZ/blob/main/po%20miry.png?raw=true)
+
 По России за год 
+
+![image](https://github.com/Dreamtimm/DZ/blob/main/po%20rossii.png?raw=true)
 
 По России за 5 лет
 
+![image](https://github.com/Dreamtimm/DZ/blob/main/po%20rossi%205%20let.png?raw=true)
+
 По миру за 5 лет
+
+![image](https://github.com/Dreamtimm/DZ/blob/main/po%20miry%205.png?raw=true)
